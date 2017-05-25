@@ -17,7 +17,7 @@ import static space.battle.ShipMode.*;
  */
 public class Shirathingal extends BasicSpaceship {
     
-    private static ShipMode shipMode = RADARING;
+    private static ShipMode shipMode = SHOOTING;
     //THRUSTING, ROTATING, RADARING, STEERING, SHOOTING
     private static RadarResults rResults;
     private static Target[] shipTargets = new Target[5];
@@ -35,6 +35,8 @@ public class Shirathingal extends BasicSpaceship {
                 return new ThrustCommand('B',1.0,.5,false);
             case ROTATING : 
                 rResults = env.getRadar();
+                int index = 0;
+                double closest;
                 for (int i = 0; i < rResults.size(); i++) {
                     ObjectStatus current = rResults.get(i);
                     shipTargets[i] = new Target(getDistance(ship.getPosition(),current.getPosition()),current.getOrientation(),current.getSpeed());
