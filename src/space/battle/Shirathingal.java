@@ -17,10 +17,10 @@ import static space.battle.ShipMode.*;
  */
 public class Shirathingal extends BasicSpaceship {
     
-    private static ShipMode shipMode = SHOOTING;
+    private static ShipMode shipMode = RADARING;
     //THRUSTING, ROTATING, RADARING, STEERING, SHOOTING
     private static RadarResults rResults;
-    private static Target[] shipTargets = new Target[5];
+    private static Target[] shipTargets = new Target[100];
     
     @Override
     public RegistrationData registerShip(int numImages, int worldWidth, int worldHeight) {
@@ -36,12 +36,17 @@ public class Shirathingal extends BasicSpaceship {
             case ROTATING : 
                 rResults = env.getRadar();
                 int index = 0;
-                double closest;
+                double closest = 10000;
                 for (int i = 0; i < rResults.size(); i++) {
                     ObjectStatus current = rResults.get(i);
-                    shipTargets[i] = new Target(getDistance(ship.getPosition(),current.getPosition()),current.getOrientation(),current.getSpeed());
+                    shipTargets[i] = new Target(getDistance(ship.getPosition(),current.getPosition()),current.getMovementDirection(),current.getSpeed());
+                    if (shipTargets[i].getDist() < closest) {
+                        index = i;
+                        closest = shipTargets[i].getDist();
+                    }
                 }
                 System.out.println("");
+                shipMode = SHOOTING;
             case RADARING :
                 shipMode = ROTATING;
                 return new RadarCommand(5);
@@ -63,4 +68,5 @@ public class Shirathingal extends BasicSpaceship {
         return distance;
     }
     
+    public Point getImpactSpot()
 }
