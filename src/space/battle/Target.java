@@ -5,15 +5,21 @@
  */
 package space.battle;
 
+import ihs.apcs.spacebattle.Point;
+
+
+
 public class Target {
     private double distance;
     private double direction; //in degrees
     private double speed;
+    private Point position;
     
-    public Target(double dist, double dir, double sp) {
+    public Target(double dist, double dir, double sp, Point p) {
         distance = dist;
         direction = dir;
         speed = sp;
+        position = p;
     }
     
     public void setDist(double dist) {
@@ -28,6 +34,10 @@ public class Target {
         speed = sp;
     }
     
+    public void setPosition(Point p) {
+        position = p;
+    }
+    
     public double getDist() {
         return distance;
     }
@@ -38,5 +48,9 @@ public class Target {
     
     public double getSp() {
         return speed;
+    }
+    
+    public Point getPosition() {
+        return position;
     }
 }
