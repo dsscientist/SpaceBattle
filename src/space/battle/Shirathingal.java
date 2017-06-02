@@ -48,7 +48,7 @@ public class Shirathingal extends BasicSpaceship {
                 }
                 System.out.println("");
                 shipMode = SHOOTING;
-                return new RotateCommand(ship.getPosition().getAngleTo(getImpactSpot(shipTargets[index]))-ship.getOrientation());
+                return new RotateCommand(ship.getPosition().getAngleTo(getImpactSpot(shipTargets[index],getImpactTime(shipTargets[index],ship)))-ship.getOrientation());
             case RADARING :
                 shipMode = ROTATING;
                 return new RadarCommand(5);
@@ -70,8 +70,21 @@ public class Shirathingal extends BasicSpaceship {
         return distance;
     }
     
-    public Point getImpactSpot(Target t) {
+    public Point getImpactSpot(Target t, double time) {
         Point position = t.getPosition();
-        return new Point(position.getX() + Math.cos(t.getDir()) * t.getSp() * 2, position.getY() + Math.sin(t.getDir()) * t.getSp() * 2);
+        return new Point(position.getX() + Math.cos(t.getDir()) * t.getSp() * time, position.getY() + Math.sin(t.getDir()) * t.getSp() * time);
+    }
+    
+    public double getImpactTime(Target t, ObjectStatus ship) { //a x^2 + b x + c = 0
+        double a = Math.pow(t.getSp(), 2) + Math.pow(TORPEDO_SPEED, 2);
+        double b = 2*TORPEDO_SPEED*((t.getPosition().getX()-ship.getPosition().getX())*Math.cos(t.getDir())+(t.getPosition().getY()-ship.getPosition().getY())*Math.sin(t.getDir()));
+        double c = Math.pow(t.getPosition().getX()-ship.getPosition().getX(), 2) + Math.pow(t.getPosition().getY()-ship.getPosition().getY(), 2);
+        double r1 = (( -1 * b + Math.sqrt(b * b - 4 * a * c))) / (2 * a);
+        double r2 = (( -1 * b - Math.sqrt(b * b - 4 * a * c))) / (2 * a);
+        if (r1 > r2) {
+            return r1;
+        } else {
+            return r2;
+        }
     }
 }
