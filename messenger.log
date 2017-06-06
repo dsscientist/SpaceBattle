@@ -1,4 +1,1914 @@
-Message sent from 1 to 0 - 
+Message sent from 7 to 0 - 
   REGISTER([Shirathingal, [200, 50, 255], 0])
-Message sent from 1 to 0 - 
+Message sent from 7 to 0 - 
   SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-196}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=68}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-115}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=13}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-60}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=13}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=148}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=10}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-17}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=116}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-74}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-18}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=133}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-81}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-11}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-11}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-18}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=219}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-31}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=37}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-347}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=40}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=148}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-115}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-28}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=260}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-21}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-18}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-198}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-47}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=279}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=22}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=8}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=10}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-352}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=276}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-116}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-97}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-33}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=269}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=14}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-160}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-6}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=97}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-2}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=125}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-3}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-107}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=26}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=7}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=5}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=4}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-46}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=-1}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  SCMD([ROT, {DEG=0}])
+Message sent from 7 to 0 - 
+  SCMD([FIRE, {DIR=F}])
+Message sent from 7 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=5}])
+Message sent from 7 to 0 - 
+  MWNL2_DISCONNECT(null)

@@ -10,5 +10,5 @@ package space.battle;
  * @author shirdav18
  */
 public enum ShipMode {
-        THRUSTING, ROTATING, RADARING, STEERING, SHOOTING
+        THRUSTING, ROTATING, RADARING, STEERING, SHOOTING, IDLING
 }

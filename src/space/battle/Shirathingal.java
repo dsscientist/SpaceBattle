@@ -18,14 +18,14 @@ import static space.battle.ShipMode.*;
 public class Shirathingal extends BasicSpaceship {
     
     private static ShipMode shipMode = RADARING;
-    //THRUSTING, ROTATING, RADARING, STEERING, SHOOTING
+    //THRUSTING, ROTATING, RADARING, STEERING, SHOOTING, IDLING
     private static RadarResults rResults;
     private static Target[] shipTargets = new Target[100];
-    private static final int TORPEDO_SPEED = 45;
+    private static final int TORPEDO_SPEED = 42;
     
     @Override
     public RegistrationData registerShip(int numImages, int worldWidth, int worldHeight) {
-        return new RegistrationData("Shirathingal", new Color(200, 50, 255), 0);
+        return new RegistrationData("Shirathingal", new Color(100, 50, 255), 0);
     }
     
     @Override
@@ -79,12 +79,6 @@ public class Shirathingal extends BasicSpaceship {
         double a = Math.pow(t.getSp(), 2) + Math.pow(TORPEDO_SPEED, 2);
         double b = 2*TORPEDO_SPEED*((t.getPosition().getX()-ship.getPosition().getX())*Math.cos(t.getDir())+(t.getPosition().getY()-ship.getPosition().getY())*Math.sin(t.getDir()));
         double c = Math.pow(t.getPosition().getX()-ship.getPosition().getX(), 2) + Math.pow(t.getPosition().getY()-ship.getPosition().getY(), 2);
-        double r1 = (( -1 * b + Math.sqrt(b * b - 4 * a * c))) / (2 * a);
-        double r2 = (( -1 * b - Math.sqrt(b * b - 4 * a * c))) / (2 * a);
-        if (r1 > r2) {
-            return r1;
-        } else {
-            return r2;
-        }
+        return -1 * b / (2 * a); //because it has a double root at the time of impact
     }
 }
